@@ -14,7 +14,7 @@
         </div>
         <div>
             <input type="checkbox" id="admin" name="you" value="you">
-            <label for="banana">You</label>
+            <label for="banana">You (for flying)</label>
         </div>
         <div>
             <input type="checkbox" id="hack" name="admin" value="Fly" checked>
