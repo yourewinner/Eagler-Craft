@@ -1,4 +1,29 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<meta http-equiv="refresh" content="0; URL=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-<link rel="canonical" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+</head>
+<body>
+    <h1>Choose your favorite commands:</h1>
+    <form>
+        <div>
+            <input type="checkbox" id="admin" name="hack" value="Prank">
+            <label for="apple">Prank</label>
+        </div>
+        <div>
+            <input type="checkbox" id="admin" name="you" value="you">
+            <label for="banana">You</label>
+        </div>
+        <div>
+            <input type="checkbox" id="hack" name="admin" value="Fly" checked>
+            <label for="orange">Fly</label>
+        </div>
+        <div>
+            <input type="checkbox" id="hack" name="serverhack" value="server">
+            <label for="grape">ServerHack</label>
+        </div>
+    </form>
+</body>
+</html>
